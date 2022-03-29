@@ -1,0 +1,63 @@
+# OS generated files #  
+######################  
+.DS_Store?  
+ehthumbs.db  
+Thumbs.db  
+  
+# Config files #  
+################  
+/config/database.yml  
+/config/email.yml  
+  
+# Logs and databases #  
+######################  
+*.log  
+*.sql  
+*.sqlite  
+*.sqlite3  
+*.db  
+schema.rb  
+  
+# Packages #  
+############  
+*.7z  
+*.dmg  
+*.gz  
+*.iso  
+*.jar  
+*.rar  
+*.tar  
+*.zip  
+  
+  
+# Compiled source #  
+###################  
+*.rbc  
+*.com  
+*.class  
+*.dll  
+*.exe  
+*.o  
+*.so  
+  
+# Generated public files #  
+/public/dispatch.*  
+  
+# Temp files #  
+*~  
+/tmp/*  
+/tmp/cache/*  
+/tmp/sessions/*  
+/tmp/sockets/*  
+/tmp/test/*  
+.sass-cache  
+*.tmproj  
+/coverage  
+/rerun.txt
+
+# Gem files #  
+/vendor/rails  
+*.gem  
+  
+# Subversion files #  
+.svn
